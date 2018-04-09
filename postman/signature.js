@@ -1,3 +1,7 @@
+/// Creator:         Aurélien Truco <mohorelien@live.fr>
+/// Description:     Postman pre-test for Tournikoti authentication
+/// Requirements:    "api_token" variable in Postman client environment
+
 // import resources
 var crypto = require( "crypto-js" );
 
